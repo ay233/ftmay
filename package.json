@@ -1,0 +1,28 @@
+{
+  "name": "ftmay",
+  "version": "1.0.1",
+  "description": "Framework Template Management by ay",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ftmay": "bin/ftmay"
+  },
+  "url": "https://github.com/ay233/ftmay",
+  "email": "ay12580233@gmail.com",
+  "author": {
+    "name": "anyao",
+    "email": "ay12580233@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ay233/ftmay.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.19.0"
+  }
+}
