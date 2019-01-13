@@ -19,7 +19,7 @@
     "url": "https://github.com/ay233/ftmay.git"
   },
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.4.2",
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
